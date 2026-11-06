@@ -7,7 +7,7 @@ Afin de comprendre l'utilisation de "rand()" et tout ce qui en suit.
 
 **Concernant** "bool hasNumber & #include <stdbool.h>" : J'ai vu cela personellement en effectuant un projet perso en C afin de l'apprendre, j'ai eu usage de cela notamment lors de l'authentification pour True si l'utilisateur à le mdp/nom d'utilisateur et False dans le cas contraire ou il es donc intérogger pour savoir ces informations.
 
-Idem pour l'usage des couleurs. Preuve : [https://cdn.discordapp.com/attachments/1556635987378180198/1568275344991985835/Capture_decran_2026-11-06_a_15.46.02.png?ex=6aef39bb&is=6aede83b&hm=52a50c217f1e6012bcf0cfe602e153b3b9eebea59153fd33b80ef2c2148627f0&](Photo)
+Idem pour l'usage des couleurs. Preuve : https://cdn.discordapp.com/attachments/1556635987378180198/1568275344991985835/Capture_decran_2026-11-06_a_15.46.02.png?ex=6aef39bb&is=6aede83b&hm=52a50c217f1e6012bcf0cfe602e153b3b9eebea59153fd33b80ef2c2148627f0&
 
 **Usage de ChatGPT :** 
 
