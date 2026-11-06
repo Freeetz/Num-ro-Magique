@@ -7,7 +7,7 @@
 int main() {
     bool hasNumber = false;
     srand(time(NULL));
-    int nombre = rand() % (100 + 1 - 1);
+    int nombre = rand() % (100 + 1 - 1); // sans le -1 le nombre pourrait être 101 (C'est dit sur le site dans le README)
     nombre += 1; // Au cas ou on tombe sur zéro, ca seras donc 1. (Ajoute +1 peut importe le nombre)
 
     // Générer le nombre aléatoire

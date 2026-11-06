@@ -11,6 +11,11 @@ Idem pour l'usage des couleurs. Preuve : https://cdn.discordapp.com/attachments/
 
 Usage de ChatGPT : 
 
+Prompt :if (!int prediction) (\
+           printf("Utilisez des caractères est strictement interdit.")\
+           exit (0);\
+        ) Explique moi pourquoi !int prediction ne fonctionne pas et propose moi une alternative
+
 Pour : if (scanf("%d", &prediction) != 1) 
 Essai sans IA avec : if (!int prediction)
 
